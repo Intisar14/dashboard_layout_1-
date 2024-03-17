@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    height: 100px;
+    background-color: darkmagenta;
+    color: rgb(239, 241, 243);
+    text-align: center;
+}
+.Banner{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    height: 500px;
+}
+.About_image{
+    width: 50%;
+    color: white;
+    height: 400px;
+    background-color: darkkhaki;
+    text-align: center;
+}
+.About_content{
+    width: 50%;
+    height: 400px;
+    background-color: goldenrod;
+    text-align: center;
+    color: white;
+}
+.About{
+    display: flex;
+}
+.Service_one{
+    width: 33.33%;
+    height: 300px;
+    background-color: rgb(218, 32, 153);
+    text-align: center;
+    color: white;
+}
+.Service_two{
+    width: 33.33%;
+    height: 300px;
+    background-color: rgb(72, 32, 218);
+    text-align: center;
+    color: white;
+}
+.Service_three{
+    width: 33.33%;
+    height: 300px;
+    background-color: rgb(32, 218, 44);
+    text-align: center;
+    color: white;
+}
+.Service{
+    display: flex;
+}
+
+.works_one{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(32, 218, 156);
+    text-align: center;
+    color: white;
+}
+.works_two{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(125, 124, 55);
+    text-align: center;
+    color: white;
+}
+.works_three{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(177, 204, 145);
+    text-align: center;
+    color: white;
+}
+.works_four{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(32, 181, 218);
+    text-align: center;
+    color: white;
+}
+.works{
+    display: flex;
+}
+
+.footer{
+    height: 100px;
+    background-color: rgb(9, 4, 0);
+    color: azure;
+    text-align: center;
+}
